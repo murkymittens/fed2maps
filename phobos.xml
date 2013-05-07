@@ -4,7 +4,9 @@
 
    <loc name='Phobos shuttle pad' loc-num='152' se='0' sw='0'/>
    <loc name='Airlock' loc-num='215' ne='0' sw='0'/>
+   <loc name='Buggy park' loc-num='217' nw='0'/>
    <loc name='Visitors Center' loc-num='278' ne='0' s='0' sw='0' w='0'/>
+   <loc name='Help desk' loc-num='341' n='0' ne='0' e='0' s='0' w='0'/>
    <loc name='Armstrong Cuthbert' loc-num='342' n='0' w='0' nw='0'/>
 
 </map>

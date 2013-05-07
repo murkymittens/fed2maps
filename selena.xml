@@ -2,8 +2,50 @@
 
 <map name='Selena' system='Sol' owner='Bella'>
 
+   <loc name='Gravshaft' loc-num='327' se='0' d='0'/>
+   <loc name='Park' loc-num='328' e='0' se='0' s='0'/>
+   <loc name='Park' loc-num='329' s='0' sw='0' w='0'/>
+   <loc name='Cafe' loc-num='390' e='0'/>
+   <loc name='Viewing Lounge' loc-num='391' e='0' se='0' s='0' w='0'/>
+   <loc name='Main entrance' loc-num='392' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Park' loc-num='393' n='0' w='0' nw='0'/>
+   <loc name='Viewing lounge' loc-num='455' n='0' ne='0' e='0'/>
+   <loc name='Viewing Lounge' loc-num='456' n='0' w='0' nw='0'/>
+   <loc name='Airlock' loc-num='457' se='0' nw='0'/>
+   <loc name='Moon surface' loc-num='522' e='0' se='0' s='0' nw='0'/>
+   <loc name='Moon surface' loc-num='523' se='0' s='0' sw='0' w='0'/>
    <loc name='Armstrong Cuthbert, Inc' loc-num='524' s='0'/>
+   <loc name='Gravshaft' loc-num='527' se='0' u='0' d='0'/>
+   <loc name='Moon surface' loc-num='586' n='0' ne='0' e='0' se='0' s='0'/>
    <loc name='Selena shuttle landing pad' loc-num='587' n='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
    <loc name='Moon surface' loc-num='588' n='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Flying room' loc-num='590' se='0'/>
+   <loc name='Market' loc-num='591' e='0'/>
+   <loc name='Concourse' loc-num='592' ne='0' e='0' se='0' sw='0' w='0' nw='0'/>
+   <loc name='Hotel Magnifico' loc-num='593' w='0'/>
+   <loc name='Moon surface' loc-num='650' n='0' ne='0' e='0' se='0'/>
+   <loc name='Moon surface' loc-num='651' n='0' ne='0' e='0' s='0' w='0' nw='0'/>
+   <loc name='Moon ray' loc-num='652' n='0' sw='0' w='0' nw='0'/>
+   <loc name='Zero-gravity arena' loc-num='654' e='0'/>
+   <loc name='Sports complex' loc-num='655' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Sauna baths' loc-num='656' w='0'/>
+   <loc name='Corridor' loc-num='657' s='0' nw='0'/>
+   <loc name='Moon ray' loc-num='715' n='0' ne='0' sw='0' nw='0'/>
+   <loc name='Running track' loc-num='718' ne='0'/>
+   <loc name='High-gravity gym' loc-num='719' n='0'/>
+   <loc name='Swimming pool' loc-num='720' nw='0'/>
+   <loc name='Corridor' loc-num='721' n='0' e='0' s='0'/>
+   <loc name='Family Jewels' loc-num='722' w='0'/>
+   <loc name='Corridor' loc-num='783' e='0' s='0' sw='0'/>
+   <loc name='Corridor' loc-num='784' e='0' w='0'/>
+   <loc name='Corridor' loc-num='785' n='0' s='0' w='0'/>
+   <loc name='Corridor' loc-num='846' ne='0' sw='0'/>
+   <loc name='Mario&apos;s' loc-num='847' n='0'/>
+   <loc name='Gorim&apos;s Weapons of Mass Destruction' loc-num='849' n='0' e='0'/>
+   <loc name='Weapons shop annex' loc-num='850' w='0'/>
+   <loc name='Plaza' loc-num='909' n='0' ne='0' s='0' w='0'/>
+   <loc name='Casino office' loc-num='972' e='0'/>
+   <loc name='Casino' loc-num='973' n='0' e='0' w='0'/>
+   <loc name='Casino backroom' loc-num='974' w='0'/>
 
 </map>

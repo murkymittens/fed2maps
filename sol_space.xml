@@ -34,11 +34,13 @@
    <loc name='Interplanetary space' loc-num='787' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
    <loc name='Earth orbit' loc-num='788' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
    <loc name='Interplanetary space' loc-num='789' n='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='848' n='0' ne='0' e='0' se='0' s='0'/>
    <loc name='Interplanetary space' loc-num='849' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
    <loc name='Interplanetary space' loc-num='850' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
    <loc name='Magellan orbit' loc-num='851' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
    <loc name='Interplanetary space' loc-num='852' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
    <loc name='Lunar orbit' loc-num='853' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='912' n='0' ne='0' e='0' se='0' s='0'/>
    <loc name='Venus orbit' loc-num='913' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
    <loc name='Interplanetary space' loc-num='914' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
    <loc name='Interplanetary space' loc-num='915' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
@@ -50,5 +52,21 @@
    <loc name='Interplanetary space' loc-num='981' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
    <loc name='Solar orbit' loc-num='1045' n='0' ne='0' e='0' s='0' sw='0' w='0' nw='0'/>
    <loc name='Solar orbit - Pearl Observatory' loc-num='1109' n='0' ne='0' sw='0' w='0' nw='0'/>
+   <loc name='Silk orbit' loc-num='2383' s='0'/>
+   <loc name='Brass orbit' loc-num='2444' e='0' se='0'/>
+   <loc name='Asteroid belt' loc-num='2445' se='0' s='0' w='0'/>
+   <loc name='Asteroid belt' loc-num='2447' n='0' sw='0'/>
+   <loc name='Asteroid belt' loc-num='2509' n='0' e='0' se='0' s='0' nw='0'/>
+   <loc name='Edge of the asteroid belt' loc-num='2510' ne='0' e='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Asteroid belt' loc-num='2511' e='0' w='0'/>
+   <loc name='Mist-shrouded asteroid' loc-num='2512' w='0'/>
+   <loc name='Doris BioLabs orbit' loc-num='2573' n='0' ne='0' e='0' se='0'/>
+   <loc name='Asteroid belt' loc-num='2574' n='0' e='0' se='0' s='0' w='0' nw='0'/>
+   <loc name='Asteroid belt' loc-num='2575' e='0' w='0'/>
+   <loc name='Asteroid belt' loc-num='2576' w='0'/>
+   <loc name='Asteroid Belt' loc-num='2638' n='0' e='0' sw='0' nw='0'/>
+   <loc name='Asteroid Belt' loc-num='2639' se='0' w='0' nw='0'/>
+   <loc name='Hunt orbit' loc-num='2701' ne='0'/>
+   <loc name='The Lattice' loc-num='2704' nw='0'/>
 
 </map>

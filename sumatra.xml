@@ -2,13 +2,41 @@
 
 <map name='Sumatra' system='Sol' owner='Freya'>
 
+   <loc name='Dome connector hub' loc-num='390' n='0' e='0' s='0'/>
+   <loc name='Beings for the Ethical Entitlement of Beings' loc-num='449' se='0'/>
+   <loc name='Chez Guevarra' loc-num='450' n='0' s='0'/>
+   <loc name='Path' loc-num='454' n='0' s='0'/>
+   <loc name='Green Freedom' loc-num='513' e='0'/>
+   <loc name='Service dome Common' loc-num='514' n='0' e='0' se='0' s='0' w='0' nw='0'/>
+   <loc name='Service dome Common' loc-num='515' n='0' ne='0' e='0' s='0' sw='0' w='0'/>
+   <loc name='Pan-Galactic Missionary Society' loc-num='516' w='0'/>
+   <loc name='Path' loc-num='518' n='0' sw='0'/>
+   <loc name='Stevedores and Shuttleport Workers Union, local 2858' loc-num='577' e='0'/>
+   <loc name='Service dome Common' loc-num='578' n='0' ne='0' e='0' s='0' sw='0' w='0'/>
+   <loc name='Service dome Common' loc-num='579' n='0' e='0' s='0' w='0' nw='0'/>
+   <loc name='Lansky Construction Corporation' loc-num='580' w='0'/>
+   <loc name='Path to Protected Area' loc-num='581' ne='0' sw='0'/>
+   <loc name='Galactic Consolidated News Service' loc-num='641' ne='0'/>
+   <loc name='Construction Workers Union, District 7' loc-num='642' n='0'/>
+   <loc name='South Dome Interior Airlock' loc-num='643' n='0' e='0'/>
+   <loc name='Skimmer yard' loc-num='644' ne='0' w='0'/>
+   <loc name='Airlock' loc-num='706'/>
+   <loc name='South Dome Exterior Airlock' loc-num='707' e='0'/>
+   <loc name='Path to Field Services Dome' loc-num='708' se='0' w='0'/>
+   <loc name='Path to Field Services Dome' loc-num='773' se='0' nw='0'/>
+   <loc name='Skimmer yard' loc-num='838' sw='0' nw='0'/>
+   <loc name='Dome perimeter path' loc-num='901' ne='0' s='0'/>
+   <loc name='Field Operations Office' loc-num='963' s='0'/>
+   <loc name='Dome perimeter path' loc-num='965' n='0' s='0'/>
    <loc name='Airlock' loc-num='966'/>
+   <loc name='Control Shed' loc-num='1026' e='0'/>
    <loc name='Sumatra shuttle pad' loc-num='1027' n='0' e='0' s='0' w='0'/>
    <loc name='Spaceport road' loc-num='1028' e='0' s='0' w='0'/>
    <loc name='Exterior Airlock to Colony' loc-num='1029' n='0' w='0'/>
    <loc name='Interior Airlock' loc-num='1030' e='0'/>
    <loc name='Sumatra Colony reception area' loc-num='1031' n='0' e='0' s='0' sw='0' w='0' d='0'/>
    <loc name='Corridor' loc-num='1032' s='0' w='0'/>
+   <loc name='Sumatra Souvenirs' loc-num='1091' n='0'/>
    <loc name='Armstrong Cuthbert office' loc-num='1095' n='0'/>
    <loc name='Corridor' loc-num='1096' n='0' e='0' s='0'/>
    <loc name='Solar Federation of Miners Local 6' loc-num='1097' w='0'/>

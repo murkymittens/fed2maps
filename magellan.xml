@@ -2,8 +2,22 @@
 
 <map name='Magellan' system='Sol' owner='Hazed'>
 
+   <loc name='MagSoc corridor' loc-num='458' n='0' e='0' s='0' w='0'/>
+   <loc name='Magellan Society President&apos;s office' loc-num='459' s='0' w='0'/>
+   <loc name='Magellan Society members room' loc-num='521' e='0'/>
+   <loc name='MagSoc corridor' loc-num='522' n='0' e='0' s='0' w='0'/>
+   <loc name='Magellan Society office' loc-num='523' n='0' w='0'/>
+   <loc name='Security door' loc-num='586' n='0' s='0'/>
+   <loc name='Spoke' loc-num='650' n='0' s='0'/>
+   <loc name='Security door' loc-num='714' n='0' s='0'/>
+   <loc name='Commercial corridor' loc-num='778' n='0' e='0' s='0' w='0'/>
+   <loc name='Commercial corridor' loc-num='842' n='0' e='0' s='0' w='0'/>
+   <loc name='Rotary office facilities' loc-num='905' e='0'/>
+   <loc name='Commercial corridor' loc-num='906' n='0' s='0' w='0'/>
+   <loc name='Commercial corridor' loc-num='970' n='0' e='0' s='0' w='0'/>
    <loc name='Armstrong Cuthbert' loc-num='1033' e='0'/>
    <loc name='Commercial corridor' loc-num='1034' n='0' e='0' s='0' w='0'/>
+   <loc name='Spinning Wheel Bar' loc-num='1035' w='0'/>
    <loc name='Brewster and Boothroyd' loc-num='1097' e='0'/>
    <loc name='Commercial corridor' loc-num='1098' n='0' e='0' s='0' w='0'/>
    <loc name='Commercial corridor' loc-num='1162' n='0' s='0'/>

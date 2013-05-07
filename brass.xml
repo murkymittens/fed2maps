@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+
+<map name='Brass' system='Sol' owner='Hazed'>
+
+   <loc name='Gap between tents' loc-num='135' e='0' sw='0'/>
+   <loc name='Rug merchant' loc-num='136' w='0'/>
+   <loc name='Gap between tents' loc-num='198' ne='0' e='0' s='0'/>
+   <loc name='Livestock tent' loc-num='199' w='0'/>
+   <loc name='Private dome' loc-num='204' sw='0'/>
+   <loc name='Gap between tents' loc-num='262' n='0' s='0'/>
+   <loc name='Armstrong Cuthbert' loc-num='263' se='0'/>
+   <loc name='Trading exchange' loc-num='264' s='0'/>
+   <loc name='Jeritt&apos;s Mad House' loc-num='265' sw='0'/>
+   <loc name='Airlock' loc-num='267' ne='0' sw='0'/>
+   <loc name='Shuttle landing pad' loc-num='324' e='0'/>
+   <loc name='Airlock' loc-num='325' e='0' w='0'/>
+   <loc name='Dome entrance' loc-num='326' n='0' e='0' s='0' w='0'/>
+   <loc name='Passage between tents' loc-num='327' e='0' w='0'/>
+   <loc name='Agora' loc-num='328' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Passage between tents' loc-num='329' e='0' w='0'/>
+   <loc name='Dome entrance' loc-num='330' ne='0' se='0' w='0'/>
+   <loc name='Gap between tents' loc-num='390' n='0' s='0'/>
+   <loc name='Mission' loc-num='391' ne='0'/>
+   <loc name='Gap between tents' loc-num='392' n='0' s='0'/>
+   <loc name='Trixie&apos;s Trinkets' loc-num='393' nw='0'/>
+   <loc name='Fanciful Fabrications' loc-num='394' sw='0'/>
+   <loc name='Airlock' loc-num='395' se='0' nw='0'/>
+   <loc name='Gap between tents' loc-num='454' n='0' e='0' se='0'/>
+   <loc name='Gap between tents' loc-num='455' e='0' w='0'/>
+   <loc name='Refreshments' loc-num='456' n='0' s='0' w='0'/>
+   <loc name='Mini-mart' loc-num='457' ne='0' e='0' se='0' sw='0'/>
+   <loc name='Aid station' loc-num='458' w='0'/>
+   <loc name='Brass management office' loc-num='460' s='0' nw='0'/>
+   <loc name='The tent of the Edmundo family' loc-num='519' nw='0'/>
+   <loc name='Gap between tents' loc-num='520' n='0' ne='0'/>
+   <loc name='Storage tent' loc-num='522' nw='0'/>
+   <loc name='Factory' loc-num='524' n='0' e='0' s='0'/>
+   <loc name='Production line' loc-num='525' s='0' w='0'/>
+   <loc name='Packing' loc-num='588' n='0' e='0'/>
+   <loc name='Finishing plant' loc-num='589' n='0' w='0'/>
+
+</map>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<map name='Selena' system='Sol' owner='Bella'>
+
+   <loc name='Armstrong Cuthbert, Inc' loc-num='524' s='0'/>
+   <loc name='Selena shuttle landing pad' loc-num='587' n='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Moon surface' loc-num='588' n='0' s='0' sw='0' w='0' nw='0'/>
+
+</map>

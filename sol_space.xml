@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+
+<map name='Sol Space' system='Sol' owner='Bella'>
+
+   <loc name='Magrathea' loc-num='523' e='0' se='0'/>
+   <loc name='Solar system interstellar link' loc-num='524' e='0' se='0' s='0' w='0'/>
+   <loc name='Interplanetary space' loc-num='525' e='0' se='0' s='0' sw='0' w='0'/>
+   <loc name='Saturn orbit' loc-num='526' e='0' se='0' s='0' sw='0' w='0'/>
+   <loc name='Titan orbit' loc-num='527' e='0' se='0' s='0' sw='0' w='0'/>
+   <loc name='Interplanetary space' loc-num='528' e='0' se='0' s='0' sw='0' w='0'/>
+   <loc name='Interplanetary space' loc-num='529' e='0' se='0' s='0' sw='0' w='0'/>
+   <loc name='Interplanetary space' loc-num='530' e='0' s='0' sw='0' w='0'/>
+   <loc name='Arena space' loc-num='531' e='0' w='0'/>
+   <loc name='Rhea orbit' loc-num='589' n='0' ne='0' e='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='590' n='0' ne='0' e='0' se='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='591' n='0' ne='0' e='0' se='0' s='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='592' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Castillo orbit' loc-num='593' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='594' n='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space, near the asteroid belt' loc-num='655' n='0' ne='0' e='0' se='0' s='0' nw='0'/>
+   <loc name='Jupiter orbit' loc-num='656' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='657' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='658' n='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Phobos orbit' loc-num='659' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='719' n='0' ne='0' e='0' se='0'/>
+   <loc name='Sumatra orbit' loc-num='720' n='0' ne='0' e='0' se='0' s='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='721' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Mars orbit' loc-num='722' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='723' n='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='724' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='784' n='0' ne='0' e='0' se='0' s='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='785' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='786' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='787' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Earth orbit' loc-num='788' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='789' n='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='849' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='850' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Magellan orbit' loc-num='851' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='852' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Lunar orbit' loc-num='853' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Venus orbit' loc-num='913' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='914' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='915' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='916' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='917' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Paradise strip mall holding area' loc-num='976' n='0' ne='0' e='0'/>
+   <loc name='Interplanetary space' loc-num='977' n='0' ne='0' e='0' w='0' nw='0'/>
+   <loc name='Mercury orbit' loc-num='980' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Interplanetary space' loc-num='981' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Solar orbit' loc-num='1045' n='0' ne='0' e='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Solar orbit - Pearl Observatory' loc-num='1109' n='0' ne='0' sw='0' w='0' nw='0'/>
+
+</map>

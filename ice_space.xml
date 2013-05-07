@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<map name='Ice Space' system='Ice' owner='Arctic'>
+
+   <loc name='Ice Space' loc-num='197' e='0' se='0' s='0'/>
+   <loc name='Aurora Orbit' loc-num='198' e='0' se='0' s='0' sw='0' w='0'/>
+   <loc name='Ice Space' loc-num='199' s='0' sw='0' w='0'/>
+   <loc name='Australis Orbit' loc-num='261' n='0' ne='0' e='0' se='0' s='0'/>
+   <loc name='Arctic Orbit and Link' loc-num='262' n='0' ne='0' e='0' se='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Borealis Orbit' loc-num='263' n='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Ice Space' loc-num='325' n='0' ne='0' e='0'/>
+   <loc name='Antarctica Orbit' loc-num='326' n='0' ne='0' e='0' w='0' nw='0'/>
+   <loc name='Ice Space' loc-num='327' n='0' w='0' nw='0'/>
+
+</map>

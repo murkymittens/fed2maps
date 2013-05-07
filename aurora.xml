@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+
+<map name='Aurora' system='Ice' owner='Arctic'>
+
+   <loc name='Aurora Exchange' loc-num='2145' s='0'/>
+   <loc name='Aurora Landing Pad' loc-num='2209' n='0' e='0' s='0' w='0'/>
+
+</map>

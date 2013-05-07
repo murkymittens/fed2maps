@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+
+<map name='Venus' system='Sol' owner='Bella'>
+
+   <loc name='Nisrik shuttle station' loc-num='154'/>
+   <loc name='Power plant' loc-num='262' e='0' s='0'/>
+   <loc name='Power plant' loc-num='263' s='0' w='0'/>
+   <loc name='Corridor' loc-num='269' e='0' sw='0'/>
+   <loc name='Corridor' loc-num='270' n='0' w='0'/>
+   <loc name='Monitoring station' loc-num='326' n='0'/>
+   <loc name='Power plant' loc-num='327' n='0' se='0'/>
+   <loc name='Dirty Boy Productions' loc-num='329' e='0'/>
+   <loc name='Dr. Fogg&apos;s Back Room' loc-num='330' e='0' w='0'/>
+   <loc name='Dr. Fogg&apos;s Marital Arts Emporium' loc-num='331' s='0' w='0'/>
+   <loc name='Corridor' loc-num='332' ne='0' sw='0'/>
+   <loc name='Control room' loc-num='390' se='0'/>
+   <loc name='Plaza' loc-num='392' e='0' s='0' sw='0' nw='0'/>
+   <loc name='Plaza' loc-num='393' e='0' s='0' w='0'/>
+   <loc name='Slideway' loc-num='394' e='0' w='0'/>
+   <loc name='Open space' loc-num='395' n='0' ne='0' e='0' s='0' w='0'/>
+   <loc name='Park' loc-num='396' e='0' w='0'/>
+   <loc name='Park' loc-num='397' e='0' s='0' w='0'/>
+   <loc name='Park' loc-num='398' w='0'/>
+   <loc name='Trading Exchange' loc-num='452' se='0'/>
+   <loc name='The Urban Spaceman Bar' loc-num='453' s='0'/>
+   <loc name='Slideway' loc-num='455' ne='0' sw='0' nw='0'/>
+   <loc name='Venus Freedom Party HQ' loc-num='456' n='0' s='0'/>
+   <loc name='Armstrong Cuthbert, Inc' loc-num='457' n='0'/>
+   <loc name='Slideway' loc-num='459' n='0' s='0'/>
+   <loc name='Museum' loc-num='460' s='0'/>
+   <loc name='Temple of Gaelaan' loc-num='461' n='0'/>
+   <loc name='Spaceport' loc-num='517' n='0' e='0' s='0' nw='0'/>
+   <loc name='Transit area' loc-num='518' ne='0' se='0' w='0'/>
+   <loc name='Party office' loc-num='520' n='0'/>
+   <loc name='Museum' loc-num='522' e='0'/>
+   <loc name='Museum lobby' loc-num='523' n='0' e='0' s='0' w='0'/>
+   <loc name='Museum' loc-num='524' n='0' e='0' s='0' w='0'/>
+   <loc name='Museum' loc-num='525' w='0'/>
+   <loc name='Shuttle landing bay' loc-num='580' e='0'/>
+   <loc name='Spaceport' loc-num='581' n='0' e='0' s='0' w='0'/>
+   <loc name='Droid Theatre' loc-num='582' w='0'/>
+   <loc name='Slideway' loc-num='583' se='0' nw='0'/>
+   <loc name='Museum' loc-num='587' n='0'/>
+   <loc name='Museum' loc-num='588' n='0'/>
+   <loc name='Landing bay' loc-num='645' n='0'/>
+   <loc name='Slideway' loc-num='648' se='0' nw='0'/>
+   <loc name='Cargon City shuttle station' loc-num='713' nw='0'/>
+   <loc name='Old mine workings' loc-num='726' se='0'/>
+   <loc name='Harrington shuttle station' loc-num='728' sw='0'/>
+   <loc name='Shuttle' loc-num='778'/>
+   <loc name='Mine face' loc-num='790' se='0'/>
+   <loc name='Mine entrance' loc-num='791' ne='0' e='0' s='0' nw='0'/>
+   <loc name='Abandoned face' loc-num='792' w='0'/>
+   <loc name='Mine face' loc-num='855' n='0' nw='0'/>
+   <loc name='Blocked corridor' loc-num='1042' sw='0'/>
+   <loc name='Abandoned face' loc-num='1104' e='0'/>
+   <loc name='Mine entrance' loc-num='1105' ne='0' se='0' w='0'/>
+   <loc name='Scargill shuttle station' loc-num='1170' nw='0'/>
+
+</map>

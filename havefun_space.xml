@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<map name='Havefun Space' system='Havefun' owner='Bourbon'>
+
+   <loc name='Link' loc-num='520' e='0' s='0' sw='0'/>
+   <loc name='Fun orbit' loc-num='521' w='0'/>
+   <loc name='Bourbonballs orbit' loc-num='583' ne='0' e='0' se='0'/>
+   <loc name='Whiskey Map orbit' loc-num='584' n='0' s='0' w='0'/>
+   <loc name='Orbit for planet Project M' loc-num='648' n='0' nw='0'/>
+
+</map>

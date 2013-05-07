@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<map name='Magellan' system='Sol' owner='Hazed'>
+
+   <loc name='Armstrong Cuthbert' loc-num='1033' e='0'/>
+   <loc name='Commercial corridor' loc-num='1034' n='0' e='0' s='0' w='0'/>
+   <loc name='Brewster and Boothroyd' loc-num='1097' e='0'/>
+   <loc name='Commercial corridor' loc-num='1098' n='0' e='0' s='0' w='0'/>
+   <loc name='Commercial corridor' loc-num='1162' n='0' s='0'/>
+   <loc name='Magellan shuttle docking bay' loc-num='1225' e='0'/>
+   <loc name='Magellan entrance corridor' loc-num='1226' n='0' e='0' s='0' w='0'/>
+
+</map>

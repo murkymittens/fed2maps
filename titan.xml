@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<map name='Titan' system='Sol' owner='Hazed'>
+
+   <loc name='General store and courier office' loc-num='712' se='0'/>
+   <loc name='Main dome' loc-num='714' n='0' e='0' s='0' w='0'/>
+   <loc name='Airlock' loc-num='715' e='0' w='0'/>
+   <loc name='Titan surface' loc-num='716' n='0' ne='0' e='0' se='0' s='0' w='0'/>
+   <loc name='Titan shuttle landing pad' loc-num='717' n='0' s='0' sw='0' w='0' nw='0'/>
+   <loc name='Main dome' loc-num='777' e='0' s='0' w='0' nw='0'/>
+   <loc name='Small park' loc-num='778' n='0' w='0'/>
+
+</map>

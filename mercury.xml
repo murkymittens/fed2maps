@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<map name='Mercury' system='Sol' owner='Bella'>
+
+   <loc name='T-junction' loc-num='452' n='0' e='0' s='0'/>
+   <loc name='Corridor' loc-num='453' e='0' w='0'/>
+   <loc name='Corridor' loc-num='454' e='0' w='0'/>
+   <loc name='The Hub' loc-num='455' n='0' e='0' s='0' w='0'/>
+   <loc name='Corridor' loc-num='519' n='0' e='0' s='0'/>
+   <loc name='Armstrong Cuthbert, Inc' loc-num='520' w='0'/>
+   <loc name='Corridor' loc-num='583' n='0' s='0'/>
+   <loc name='Shuttle landing bay' loc-num='646' e='0'/>
+   <loc name='Space port' loc-num='647' n='0' e='0' s='0' w='0'/>
+
+</map>

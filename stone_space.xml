@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<map name='Stone Space' system='Stone' owner='Zanryche'>
+
+   <loc name='Interstellar link' loc-num='265' s='0'/>
+   <loc name='Antici' loc-num='329' n='0' s='0'/>
+   <loc name='Pation' loc-num='393' n='0' s='0'/>
+   <loc name='Spaceport and Orbit' loc-num='457' n='0'/>
+
+</map>

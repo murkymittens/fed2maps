@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<map name='Granite Space' system='Granite' owner='Freya'>
+
+   <loc name='Interstellar Link' loc-num='67' e='0' se='0' s='0'/>
+   <loc name='Space' loc-num='68' s='0' sw='0' w='0'/>
+   <loc name='Space' loc-num='131' n='0' ne='0' e='0' s='0'/>
+   <loc name='Pebble orbit' loc-num='132' n='0' sw='0' w='0' nw='0'/>
+   <loc name='Space' loc-num='195' n='0' ne='0' s='0'/>
+   <loc name='Ooops orbit' loc-num='259' n='0'/>
+
+</map>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<map name='Phobos' system='Sol' owner='Hazed'>
+
+   <loc name='Phobos shuttle pad' loc-num='152' se='0' sw='0'/>
+   <loc name='Airlock' loc-num='215' ne='0' sw='0'/>
+   <loc name='Visitors Center' loc-num='278' ne='0' s='0' sw='0' w='0'/>
+   <loc name='Armstrong Cuthbert' loc-num='342' n='0' w='0' nw='0'/>
+
+</map>

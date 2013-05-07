@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<map name='Sumatra' system='Sol' owner='Freya'>
+
+   <loc name='Airlock' loc-num='966'/>
+   <loc name='Sumatra shuttle pad' loc-num='1027' n='0' e='0' s='0' w='0'/>
+   <loc name='Spaceport road' loc-num='1028' e='0' s='0' w='0'/>
+   <loc name='Exterior Airlock to Colony' loc-num='1029' n='0' w='0'/>
+   <loc name='Interior Airlock' loc-num='1030' e='0'/>
+   <loc name='Sumatra Colony reception area' loc-num='1031' n='0' e='0' s='0' sw='0' w='0' d='0'/>
+   <loc name='Corridor' loc-num='1032' s='0' w='0'/>
+   <loc name='Armstrong Cuthbert office' loc-num='1095' n='0'/>
+   <loc name='Corridor' loc-num='1096' n='0' e='0' s='0'/>
+   <loc name='Solar Federation of Miners Local 6' loc-num='1097' w='0'/>
+   <loc name='Corridor' loc-num='1160' n='0' e='0' s='0' w='0'/>
+
+</map>

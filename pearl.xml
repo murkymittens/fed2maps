@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<map name='Pearl' system='Sol' owner='Freya'>
+
+   <loc name='Gravshaft - Level 1' loc-num='135' s='0' d='0'/>
+   <loc name='Captain&apos;s quarters' loc-num='145' se='0'/>
+   <loc name='The Pearl - Shuttle Bay' loc-num='198' e='0'/>
+   <loc name='Atrium' loc-num='199' n='0' ne='0' se='0' sw='0' w='0' nw='0'/>
+   <loc name='Gravshaft - Level 2' loc-num='205' n='0' e='0' s='0' w='0' u='0' d='0'/>
+   <loc name='Armstrong Cuthbert' loc-num='206' w='0'/>
+   <loc name='Gravshaft - Level 3' loc-num='210' ne='0' se='0' sw='0' nw='0' u='0' d='0'/>
+   <loc name='Crew&apos;s quarters' loc-num='273' ne='0'/>
+   <loc name='Off duty lounge' loc-num='275' nw='0'/>
+
+</map>

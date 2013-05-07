@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<map name='Paradise' system='Sol' owner='Freya'>
+
+   <loc name='Mother Truckers Service Station and Mall' loc-num='457' s='0'/>
+   <loc name='Walkway' loc-num='458' se='0' s='0' sw='0'/>
+   <loc name='Walkway' loc-num='521' n='0' ne='0' nw='0'/>
+   <loc name='Mother&apos;s Express Deliveries' loc-num='522' n='0'/>
+
+</map>

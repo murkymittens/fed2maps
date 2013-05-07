@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+
+<map name='Mars' system='Sol' owner='Bella'>
+
+   <loc name='Chez Diesel' loc-num='260' se='0' u='0' d='0'/>
+   <loc name='Hotel lounge' loc-num='322' s='0'/>
+   <loc name='Tux Deluxe' loc-num='324' e='0'/>
+   <loc name='City street' loc-num='325' n='0' s='0' w='0' nw='0' u='0'/>
+   <loc name='Mars Interplanetary Hotel' loc-num='386' n='0' e='0'/>
+   <loc name='City street' loc-num='387' e='0' s='0' w='0'/>
+   <loc name='City street' loc-num='388' e='0' w='0'/>
+   <loc name='Crossroads' loc-num='389' n='0' e='0' s='0' w='0'/>
+   <loc name='City street' loc-num='390' e='0' s='0' w='0'/>
+   <loc name='The Duff Modem' loc-num='451' n='0'/>
+   <loc name='Market' loc-num='452' e='0'/>
+   <loc name='City street' loc-num='453' n='0' s='0' w='0'/>
+   <loc name='Workshop' loc-num='454' n='0'/>
+   <loc name='Frontier Gunsmiths' loc-num='516' e='0'/>
+   <loc name='City street' loc-num='517' n='0' se='0' s='0' w='0'/>
+   <loc name='Hopper' loc-num='579'/>
+   <loc name='Main road' loc-num='581' n='0' s='0'/>
+   <loc name='Beaten track' loc-num='582' se='0' nw='0'/>
+   <loc name='Beaten track' loc-num='584' se='0' sw='0'/>
+   <loc name='Armstrong Cuthbert, Inc' loc-num='644' e='0'/>
+   <loc name='Main road' loc-num='645' n='0' s='0' w='0'/>
+   <loc name='Beaten track' loc-num='647' ne='0' s='0' nw='0'/>
+   <loc name='Beaten track' loc-num='649' e='0' nw='0'/>
+   <loc name='Beaten track' loc-num='650' s='0' w='0'/>
+   <loc name='Spaceport terminus' loc-num='709' n='0' s='0' w='0'/>
+   <loc name='Temple of Gaelaan' loc-num='711' n='0'/>
+   <loc name='Beaten track' loc-num='714' n='0' se='0'/>
+   <loc name='Mars shuttle landing pad' loc-num='772' e='0' se='0' s='0'/>
+   <loc name='Marsport' loc-num='773' n='0' s='0' sw='0' w='0'/>
+   <loc name='Beaten track' loc-num='779' e='0' nw='0'/>
+   <loc name='Before the Ruins' loc-num='780' e='0' w='0'/>
+   <loc name='Marsport' loc-num='836' n='0' ne='0' e='0'/>
+   <loc name='Marsport' loc-num='837' n='0' s='0' w='0' nw='0'/>
+
+</map>

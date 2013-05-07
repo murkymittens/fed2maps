@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+
+<map name='Earth' system='Sol' owner='Bella'>
+
+   <loc name='Gravshaft' loc-num='199' s='0' d='0'/>
+   <loc name='Swift-Fix Ship Repairs' loc-num='200' sw='0'/>
+   <loc name='Spaceport' loc-num='262' e='0' se='0' s='0'/>
+   <loc name='Earth shuttle landing pad' loc-num='263' n='0' ne='0' se='0' s='0' sw='0' w='0'/>
+   <loc name='Guard room' loc-num='265' e='0' sw='0'/>
+   <loc name='Grand Tour Entrance' loc-num='290' n='0' e='0'/>
+   <loc name='Brass: Jeritt&apos;s Mad House' loc-num='291' e='0'/>
+   <loc name='Castillo: Fedruckers' loc-num='292' e='0'/>
+   <loc name='Doris: Doris BioLabs shuttle port' loc-num='293' e='0'/>
+   <loc name='Earth: Laser control' loc-num='294' e='0'/>
+   <loc name='Earth: Elephant house' loc-num='295' e='0'/>
+   <loc name='Earth: Lucky Seven Saloon' loc-num='296' e='0'/>
+   <loc name='Horsell: Church belfry' loc-num='297' e='0'/>
+   <loc name='Lattice: Zen Room' loc-num='298' e='0'/>
+   <loc name='Magrathea: Workshop' loc-num='299' e='0'/>
+   <loc name='Mars: Probe graveyard' loc-num='300' e='0'/>
+   <loc name='Mercury: The Sizzling Wok' loc-num='301' e='0'/>
+   <loc name='Moon: Temple of Gaelaan' loc-num='302' e='0'/>
+   <loc name='Snark: Boojum room' loc-num='303' e='0'/>
+   <loc name='Starbase 1: The Monolith' loc-num='304' e='0'/>
+   <loc name='Titan: Viewing room' loc-num='305' e='0'/>
+   <loc name='Venus: Venus Freedom Party HQ' loc-num='306' e='0'/>
+   <loc name='Venus: Gallery' loc-num='307' e='0'/>
+   <loc name='Rhea: Research and Development' loc-num='308' e='0'/>
+   <loc name='Phobos: Morph Bar' loc-num='309' e='0'/>
+   <loc name='Sumatra: Sumatra Colony reception area' loc-num='310' e='0'/>
+   <loc name='Pearl: Scholar&apos;s garden' loc-num='311' e='0'/>
+   <loc name='Grand Tour Exit' loc-num='312' e='0'/>
+   <loc name='Spaceport' loc-num='326' n='0' ne='0' e='0'/>
+   <loc name='Spaceport' loc-num='327' n='0' e='0' s='0' w='0' nw='0'/>
+   <loc name='Spaceport' loc-num='328' ne='0' w='0' nw='0'/>
+   <loc name='Magellan Society Exhibition' loc-num='329' sw='0'/>
+   <loc name='Meeting point' loc-num='390' e='0'/>
+   <loc name='Terminus' loc-num='391' n='0' e='0' s='0' sw='0' w='0'/>
+   <loc name='Terminus' loc-num='392' ne='0' e='0' s='0' w='0'/>
+   <loc name='Terminus exit' loc-num='393' e='0'/>
+   <loc name='Perimeter road' loc-num='394' se='0' sw='0'/>
+   <loc name='Starship Cantina' loc-num='454' ne='0'/>
+   <loc name='Imperial Customs Service shed' loc-num='455' n='0'/>
+   <loc name='Terminus entrance' loc-num='456' n='0' s='0'/>
+   <loc name='Perimeter road' loc-num='457' ne='0' sw='0'/>
+   <loc name='Shipyard office' loc-num='459' nw='0'/>
+   <loc name='Main stairway' loc-num='515' se='0' u='0' d='0'/>
+   <loc name='Drawing room' loc-num='516' e='0' s='0'/>
+   <loc name='Window' loc-num='517' w='0'/>
+   <loc name='Armstrong Cuthbert, Inc' loc-num='519' e='0'/>
+   <loc name='Main road' loc-num='520' n='0' ne='0' s='0' w='0' u='0'/>
+   <loc name='Backyard' loc-num='579' e='0' d='0'/>
+   <loc name='Hallway' loc-num='580' n='0' e='0' s='0' sw='0' w='0' nw='0' u='0'/>
+   <loc name='Hallway' loc-num='581' e='0' s='0' w='0'/>
+   <loc name='Driveway' loc-num='582' e='0' w='0'/>
+   <loc name='Driveway' loc-num='583' e='0' w='0'/>
+   <loc name='Main road' loc-num='584' n='0' e='0' s='0' w='0'/>
+   <loc name='Spaceport dormitory' loc-num='585' w='0'/>
+   <loc name='Gallagher&apos;s' loc-num='587' s='0'/>
+   <loc name='Office of the Minister for Administrative Affairs' loc-num='592' e='0' s='0'/>
+   <loc name='Communications and Services office' loc-num='593' s='0' w='0'/>
+   <loc name='Kitchen' loc-num='643' ne='0'/>
+   <loc name='Dining room' loc-num='644' n='0'/>
+   <loc name='Lounge' loc-num='645' n='0'/>
+   <loc name='Main road' loc-num='648' n='0' e='0'/>
+   <loc name='Main road' loc-num='649' e='0' s='0' w='0'/>
+   <loc name='Main road' loc-num='650' e='0' s='0' w='0'/>
+   <loc name='Main road' loc-num='651' n='0' e='0' w='0'/>
+   <loc name='City road' loc-num='652' se='0' w='0'/>
+   <loc name='Computators office' loc-num='656' n='0' e='0'/>
+   <loc name='Office of Administrative Affairs' loc-num='657' n='0' s='0' w='0'/>
+   <loc name='Office of Armament Approval' loc-num='658' s='0'/>
+   <loc name='Office of Transport and Traffic Licensing' loc-num='659' s='0'/>
+   <loc name='Empty office' loc-num='660' s='0'/>
+   <loc name='Office of the Clerk of the Purple Wax' loc-num='668' s='0'/>
+   <loc name='Hagar&apos;s Music Store' loc-num='713' n='0' w='0'/>
+   <loc name='City road' loc-num='717' s='0' nw='0'/>
+   <loc name='Elevator' loc-num='720' e='0'/>
+   <loc name='Corridor' loc-num='721' n='0' e='0' s='0' w='0'/>
+   <loc name='Corridor' loc-num='722' n='0' e='0' s='0' w='0'/>
+   <loc name='Corridor' loc-num='723' n='0' e='0' s='0' w='0'/>
+   <loc name='Corridor' loc-num='724' n='0' e='0' s='0' w='0'/>
+   <loc name='Executive elevator' loc-num='725' w='0'/>
+   <loc name='Corridor' loc-num='730' e='0' s='0'/>
+   <loc name='Corridor' loc-num='731' e='0' w='0'/>
+   <loc name='Corridor' loc-num='732' n='0' e='0' w='0'/>
+   <loc name='Wide avenue' loc-num='781' n='0' e='0' s='0'/>
+   <loc name='Galactic Administration HQ' loc-num='782' n='0' e='0' s='0' w='0'/>
+   <loc name='Elevator lobby' loc-num='783' n='0' e='0' w='0'/>
+   <loc name='Elevator' loc-num='784' w='0'/>
+   <loc name='Ceramete Landing' loc-num='785' n='0' d='0'/>
+   <loc name='Office of Financial and Fiduciary Approval' loc-num='786' n='0'/>
+   <loc name='Office of World Management Approval' loc-num='787' n='0'/>
+   <loc name='Planning and Zoning Dept.' loc-num='788' n='0'/>
+   <loc name='Ceramete Landing' loc-num='794' n='0' u='0'/>
+   <loc name='Gravshaft - Level 7' loc-num='1476' se='0' u='0'/>
+   <loc name='Dormer Hub' loc-num='1541' n='0' e='0' s='0' w='0' nw='0'/>
+
+</map>

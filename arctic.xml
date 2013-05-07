@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<map name='Arctic' system='Ice' owner='Arctic'>
+
+   <loc name='North Pole' loc-num='1374' s='0' sw='0' w='0'/>
+   <loc name='Ice Floe' loc-num='1437' n='0' ne='0' e='0' s='0'/>
+   <loc name='Ice Floe' loc-num='1501' n='0' ne='0' se='0' s='0' sw='0' nw='0'/>
+   <loc name='Icefield' loc-num='1565' n='0' ne='0' s='0' nw='0'/>
+   <loc name='Tundra' loc-num='1629' n='0' s='0'/>
+   <loc name='Northern Forest' loc-num='1693' n='0' ne='0' s='0' nw='0'/>
+   <loc name='Northern Forest' loc-num='1757' n='0' ne='0' s='0' nw='0'/>
+   <loc name='Glacial Moraine' loc-num='1821' n='0' s='0' u='0'/>
+   <loc name='Glacier Face' loc-num='1885' n='0' s='0' u='0' d='0'/>
+   <loc name='Glacier Top' loc-num='1949' n='0' se='0' d='0'/>
+   <loc name='Northern Lights Bar and Grill' loc-num='1952' sw='0' u='0'/>
+   <loc name='Ice Cavern' loc-num='2014' e='0' nw='0' u='0'/>
+   <loc name='Arctic Landing Pad' loc-num='2015' ne='0' e='0' se='0' s='0' w='0'/>
+   <loc name='Arctic Trading Exchange' loc-num='2016' w='0' u='0'/>
+   <loc name='Fire and Ice Hospital and Medical Clinic' loc-num='2079' n='0'/>
+
+</map>
